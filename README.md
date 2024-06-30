@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+**I am Vestin Hategekimana**
+I am currently doing my PhD in demography and I like to code!
+
+### More details
+*Coming soon...*
 <!--
 **CyuHat/cyuhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
